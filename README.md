@@ -1,43 +1,14 @@
 
-								<!DOCTYPE HTML>
-
-<html>
-	<head>
-		<title>Carlbert Cannon</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-	</head>
-	<body class="is-preload">
-
-		<!-- Wrapper -->
-			<div id="wrapper">
-
-				<!-- Header -->
-					<header id="header">
-						<div class="logo">
-							<span class="icon fa-gem"></span>
-						</div>
-						<div class="content">
-							<div class="inner">
-								<h1>Welcome to my Portfolio</h1>
-								<p>A fully responsive site designed by Carlbert Frank Cannon.</p>
-							</div>
-						</div>
-						<nav>
-							<ul>
+Carlbert Cannon
+									Welcome to my Portfolio</h1>
+								A fully responsive site designed by Carlbert Frank Cannon.
+						
 								<li><a href="#About">My journey</a></li>
 								<li><a href="#work">Projects</a></li>
 								<li><a href="#education">Education</a></li>
 								<li><a href="#contact">Contact</a></li>
 								<!--<li><a href="#elements">Elements</a></li>-->
-							</ul>
-						</nav>
-					</header>
-
-				<!-- Main -->
-					<div id="main">
+							
 
 						<!-- Intro -->
 							<article id="About">
