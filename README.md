@@ -35,7 +35,7 @@ Projects
 								
 [Open Weather Map API](https://github.com/CarlbertCannon/OpenWeatherMapAPI) Here I created a weather forecast app using an Open Weather Map API. It will give you the current weather for the city that you specify.
 
-https://github.com/CarlbertCannon/KanyeWest" (KayneRest Project) This project uses randomly generated quotes from Kanye West and Ron Swanson by way of https://api.kanye.rest The KanyeWest API https://ron-swanson-quotes.herokuapp.com/v2/quotes" The RonSwanson API. When you run this application it will appear as if the two are having a conversation.
+[KayneRest Project](https://github.com/CarlbertCannon/KanyeWest) This project uses randomly generated quotes from Kanye West and Ron Swanson by way of [KanyeWest API]https://api.kanye.rest The [The RonSwanson API](https://ron-swanson-quotes.herokuapp.com/v2/quotes). When you run this application it will appear as if the two are having a conversation.
 
 https://github.com/CarlbertCannon/BestBuyBestPractices" (Best Buy Project) This project connects using a BestBuy API that lists products sold by Best Buy. The console connects to the API so you can essentially view all of the products. I can also create, update, read, and delete products from the list.
 
