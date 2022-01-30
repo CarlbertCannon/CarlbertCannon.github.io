@@ -23,41 +23,34 @@ Carlbert Cannon
 							
 								Projects
 								
-								"https://github.com/CarlbertCannon/OpenWeatherMapAPI(Open Weather Map API)</b></a> Here I created a weather forecast app using an Open Weather Map API. It will give you the current weather for the city that you specify. </p>
-								<p><a href="https://github.com/CarlbertCannon/KanyeWest"><b>(KayneRest Project)</b></a> This project uses randomly generated quotes from Kanye West and Ron Swanson by way of <a href="https://api.kanye.rest">The KanyeWest API</a > and <a href="https://ron-swanson-quotes.herokuapp.com/v2/quotes">The RonSwanson API</a>. When you run this application it will appear as if the two are having a conversation.</p>
-								<p><a href="https://github.com/CarlbertCannon/BestBuyBestPractices"><b>(Best Buy Project)</b></a> This project connects using a BestBuy API that lists products sold by Best Buy. The console connects to the API so you can essentially view all of the products. I can also create, update, read, and delete products from the list.</p>
-								<p><a href="https://github.com/CarlbertCannon/TacoParser"><b>(TacoParser Project)</b></a> This project goes through a list of Taco Bell locations and essentially find the two that are farthest away from another by mileage.</p>
-							</article> 
-
-							<p></p>
+								 https://github.com/CarlbertCannon/OpenWeatherMapAPI (Open Weather Map API)</b></a> Here I created a weather forecast app using an Open Weather Map API. It will give you the current weather for the city that you specify.
+								https://github.com/CarlbertCannon/KanyeWest" (KayneRest Project) This project uses randomly generated quotes from Kanye West and Ron Swanson by way of https://api.kanye.rest The KanyeWest API https://ron-swanson-quotes.herokuapp.com/v2/quotes" The RonSwanson API. When you run this application it will appear as if the two are having a conversation.
+								"https://github.com/CarlbertCannon/BestBuyBestPractices" (Best Buy Project) This project connects using a BestBuy API that lists products sold by Best Buy. The console connects to the API so you can essentially view all of the products. I can also create, update, read, and delete products from the list.
+								"https://github.com/CarlbertCannon/TacoParser" (TacoParser Project) This project goes through a list of Taco Bell locations and essentially find the two that are farthest away from another by mileage.
+							
 						
-						<!-- About -->
-							<article id="education">
-								<h2 class="major">TrueCoders</h2>
-								<h3> Full Stack Software Engineering</h3>
-								<span class="image main"><img src="images/pic03.jpg" alt="" /></span>
-								<p>I became certified through their comprehensive training program. Which involved  over 500 hours of lecture and project based training.
+						
+								TrueCoders
+								Full Stack Software Engineering
+								I became certified through their comprehensive training program. Which involved  over 500 hours of lecture and project based training.
                     				Using varies programming languages and technical skills like C#, .Net, MySQL, Git, HTML, CSS, and JavaScript.</p>
-							</article>
+							
 
-						<!-- Contact -->
-							<article id="contact">
-								<Contact
+							Contact
 							
 							
 							
-								<li><a href="tel: 470-662-6455"><b>470-662-6455</b></a></li>
-								<li><a href="mailto:51percentbetter@gmail.com"><b>Email</b></a></li>
-								<li><a href="https://www.linkedin.com/in/carlbert-cannon-02b4978b/"><b>Linkedin</b></a></li>
-								<li><a href="https://twitter.com/FrankCannon85"><b>Twitter</b></a></li>	
-								<li><a href="https://www.instagram.com/51percentbetter/"><b>Instagram</b></a></li>
-								<li><a href="https://github.com/CarlbertCannon"><b>Github</b></a></li>
-								<p>
+								"tel: 470-662-6455"><b>470-662-6455
+								"mailto:51percentbetter@gmail.com" Email
+								"https://www.linkedin.com/in/carlbert-cannon-02b4978b/" Linkedin
+								"https://twitter.com/FrankCannon85" Twitter
+								"https://www.instagram.com/51percentbetter/" Instagram
+								"https://github.com/CarlbertCannon" Github
+								
 
 
 								
 								
-							</article>
 
 								
 							
