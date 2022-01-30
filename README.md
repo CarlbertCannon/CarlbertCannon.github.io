@@ -33,11 +33,12 @@ Take a glance at some of my work throughout my time with TrueCoders.
 								
 ##[Open Weather Map API](https://github.com/CarlbertCannon/OpenWeatherMapAPI) Here I created a weather forecast app using an Open Weather Map API. It will give you the current weather for the city that you specify.
 
-##[KayneRest Project](https://github.com/CarlbertCannon/KanyeWest) This project uses randomly generated quotes from Kanye West and Ron Swanson by way of [KanyeWest API]https://api.kanye.rest The [The RonSwanson API](https://ron-swanson-quotes.herokuapp.com/v2/quotes). When you run this application it will appear as if the two are having a conversation.
+##[KayneRest Project](https://github.com/CarlbertCannon/KanyeWest) This project uses randomly generated quotes from Kanye West and Ron Swanson by way of
+[KanyeWest API](https://api.kanye.rest) and [The RonSwanson API](https://ron-swanson-quotes.herokuapp.com/v2/quotes). When you run this application it will appear as if the two are having a conversation.
 
-[Best Buy Project](https://github.com/CarlbertCannon/BestBuyBestPractices) This project connects using a BestBuy API that lists products sold by Best Buy. The console connects to the API so you can essentially view all of the products. I can also create, update, read, and delete products from the list.
+##[Best Buy Project](https://github.com/CarlbertCannon/BestBuyBestPractices) This project connects using a BestBuy API that lists products sold by Best Buy. The console connects to the API so you can essentially view all of the products. I can also create, update, read, and delete products from the list.
 
-[TacoParser](https://github.com/CarlbertCannon/TacoParser) Project This project goes through a list of Taco Bell locations and essentially find the two that are farthest away from another by mileage.
+##[TacoParser](https://github.com/CarlbertCannon/TacoParser) Project This project goes through a list of Taco Bell locations and essentially find the two that are farthest away from another by mileage.
 							
 						
 						
@@ -55,12 +56,12 @@ Using varies programming languages and technical skills like C#,
 							
 							
 							
-tel: 470-662-6455
-mailto:51percentbetter@gmail.com Email
-https://www.linkedin.com/in/carlbert-cannon-02b4978b/ Linkedin
-https://twitter.com/FrankCannon85 Twitter
-https://www.instagram.com/51percentbetter/ Instagram
-https://github.com/CarlbertCannon Github
+Phone: 470-662-6455
+#[Email](mailto:51percentbetter@gmail.com)
+#[Linkedin](https://www.linkedin.com/in/carlbert-cannon-02b4978b/)
+#[Twitter](https://twitter.com/FrankCannon85)
+#[Instagram](https://www.instagram.com/51percentbetter/)
+#[Github](https://github.com/CarlbertCannon)
 								
 
 
