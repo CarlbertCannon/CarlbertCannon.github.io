@@ -33,7 +33,7 @@ Take a glance at some of my work throughout my time with TrueCoders.
 							
 Projects
 								
-https://github.com/CarlbertCannon/OpenWeatherMapAPI (Open Weather Map API)</b></a> Here I created a weather forecast app using an Open Weather Map API. It will give you the current weather for the city that you specify.
+https://github.com/CarlbertCannon/OpenWeatherMapAPI (Open Weather Map API) Here I created a weather forecast app using an Open Weather Map API. It will give you the current weather for the city that you specify.
 
 https://github.com/CarlbertCannon/KanyeWest" (KayneRest Project) This project uses randomly generated quotes from Kanye West and Ron Swanson by way of https://api.kanye.rest The KanyeWest API https://ron-swanson-quotes.herokuapp.com/v2/quotes" The RonSwanson API. When you run this application it will appear as if the two are having a conversation.
 
