@@ -31,12 +31,9 @@
 								<span class="image main"><img src="images/pic03.jpg" alt="" /></span>
 								<p>I became certified through their comprehensive training program. Which involved  over 500 hours of lecture and project based training.
                     				Using varies programming languages and technical skills like C#, .Net, MySQL, Git, HTML, CSS, and JavaScript.</p>
-							</article>
-
-						<!-- Contact -->
-							<article id="contact">
-								<h2 class="major">Contact</h2>
 							
+
+				
 							
 							
 								<li><a href="tel: 470-662-6455"><b>470-662-6455</b></a></li>
@@ -45,12 +42,12 @@
 								<li><a href="https://twitter.com/FrankCannon85"><b>Twitter</b></a></li>	
 								<li><a href="https://www.instagram.com/51percentbetter/"><b>Instagram</b></a></li>
 								<li><a href="https://github.com/CarlbertCannon"><b>Github</b></a></li>
-								<p>
+								
 
 
 								
 								
-							</article>
+							
 
 [Link](url) and ![Image](src)
 ```
