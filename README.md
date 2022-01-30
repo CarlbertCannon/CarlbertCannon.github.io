@@ -26,7 +26,7 @@ along with the flex schedule. This afforded me to work full-time as well as stud
 								
 I really enjoyed the process of becoming a Software Engineer. It was challeging at times but very rewarding overall. 
 I must say I enjoy creating websites, working with applications and solving by way of debugging.
-Take a glance at some of my work throughout my time with <a href="#work">TrueCoders.
+Take a glance at some of my work throughout my time with TrueCoders.
 						
 
  Work 
@@ -34,8 +34,11 @@ Take a glance at some of my work throughout my time with <a href="#work">TrueCod
 Projects
 								
 https://github.com/CarlbertCannon/OpenWeatherMapAPI (Open Weather Map API)</b></a> Here I created a weather forecast app using an Open Weather Map API. It will give you the current weather for the city that you specify.
+
 https://github.com/CarlbertCannon/KanyeWest" (KayneRest Project) This project uses randomly generated quotes from Kanye West and Ron Swanson by way of https://api.kanye.rest The KanyeWest API https://ron-swanson-quotes.herokuapp.com/v2/quotes" The RonSwanson API. When you run this application it will appear as if the two are having a conversation.
+
 https://github.com/CarlbertCannon/BestBuyBestPractices" (Best Buy Project) This project connects using a BestBuy API that lists products sold by Best Buy. The console connects to the API so you can essentially view all of the products. I can also create, update, read, and delete products from the list.
+
 https://github.com/CarlbertCannon/TacoParser" (TacoParser Project) This project goes through a list of Taco Bell locations and essentially find the two that are farthest away from another by mileage.
 							
 						
