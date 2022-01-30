@@ -1,11 +1,49 @@
-#Carlbert Cannon
 
-	
-								##Welcome to my Portfolio
-								A fully responsive site designed by Carlbert Frank Cannon.
-						My journey
-								
-								It started by watching videos on Youtube. A few of them were about breaking down the differences between Software Engineering and Software Development, as well as what it means to be a front-end developer and a back-end developer. Web development piqued my interest too, so I also watched videos about that as well. Then I got into looking at tutorials and reading books about JavaScript and C#. I finally started practicing with apps such as Sololearn and GrassHopper. 
+								<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>Carlbert Cannon</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="logo">
+							<span class="icon fa-gem"></span>
+						</div>
+						<div class="content">
+							<div class="inner">
+								<h1>Welcome to my Portfolio</h1>
+								<p>A fully responsive site designed by Carlbert Frank Cannon.</p>
+							</div>
+						</div>
+						<nav>
+							<ul>
+								<li><a href="#About">My journey</a></li>
+								<li><a href="#work">Projects</a></li>
+								<li><a href="#education">Education</a></li>
+								<li><a href="#contact">Contact</a></li>
+								<!--<li><a href="#elements">Elements</a></li>-->
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Intro -->
+							<article id="About">
+								<h2 class="major">My journey</h2>
+								<span class="image main"><img src="images/pic01.jpg" alt="" /></span>
+								<p>It started by watching videos on Youtube. A few of them were about breaking down the differences between Software Engineering and Software Development, as well as what it means to be a front-end developer and a back-end developer. Web development piqued my interest too, so I also watched videos about that as well. Then I got into looking at tutorials and reading books about JavaScript and C#. I finally started practicing with apps such as Sololearn and GrassHopper. </p>
 								<p>After all of this research I knew I needed to see which type of learning style would best suit me. I explored self learning as well bootcamps. I looked into a few bootcamps and after talking with Cruz Sanchez from TrueCoders. The way he explained himself about the structure of the course as well as the reviews I read about the program. I knew it was the right one for me.</p>
 								<p>Before I enrolled with TrueCoders I had to decide on which course I wanted to take. It came down to their Software Engineering and Web Development program; whether or not I wanted to do it on my own with their self paced program or go in as a full time student. I ulitimately went with the full stack software engineering program along with the flex schedule. This afforded me to work full-time as well as study during my free time.</p>
 								<p>I really enjoyed the process of becoming a Software Engineer. It was challeging at times but very rewarding overall. I must say I enjoy creating websites, working with applications and solving by way of debugging.</p>
@@ -31,9 +69,7 @@
 								<span class="image main"><img src="images/pic03.jpg" alt="" /></span>
 								<p>I became certified through their comprehensive training program. Which involved  over 500 hours of lecture and project based training.
                     				Using varies programming languages and technical skills like C#, .Net, MySQL, Git, HTML, CSS, and JavaScript.</p>
-							
-
-				</article>
+							</article>
 
 						<!-- Contact -->
 							<article id="contact">
@@ -53,7 +89,7 @@
 								
 								
 							</article>
-								
+
 								
 							
 
