@@ -1,13 +1,8 @@
 
 Carlbert Cannon
-									Welcome to my Portfolio</h1>
+									Welcome to my Portfolio
 								A fully responsive site designed by Carlbert Frank Cannon.
 						
-								<li><a href="#About">My journey</a></li>
-								<li><a href="#work">Projects</a></li>
-								<li><a href="#education">Education</a></li>
-								<li><a href="#contact">Contact</a></li>
-								<!--<li><a href="#elements">Elements</a></li>-->
 							
 
 						<!-- Intro -->
@@ -44,7 +39,7 @@ Carlbert Cannon
 
 						<!-- Contact -->
 							<article id="contact">
-								<h2 class="major">Contact</h2>
+								<Contact
 							
 							
 							
@@ -63,13 +58,4 @@ Carlbert Cannon
 
 								
 							
-
-[Link](url) and ![Image](src)
-```
-
-
-### Jekyll Themes
-
-
-### Support or Contact
 
