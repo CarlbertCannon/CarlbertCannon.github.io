@@ -41,8 +41,7 @@ Take a glance at some of my work throughout my time with TrueCoders.
 							
 						
 						
-#
-TrueCoders
+#  TrueCoders
 
 ##  Full Stack Software Engineering
 
