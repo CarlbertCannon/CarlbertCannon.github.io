@@ -45,10 +45,10 @@ Take a glance at some of my work throughout my time with TrueCoders.
 
 ##  Full Stack Software Engineering
 
-I became certified through their comprehensive training program. 
-Which involved over 500 hours of lecture and project based training.
-Using varies programming languages and technical skills like C#,
-.Net, MySQL, Git, HTML, CSS, and JavaScript.
+> I became certified through their comprehensive training program. 
+> Which involved over 500 hours of lecture and project based training.
+> Using varies programming languages and technical skills like C#,
+> .Net, MySQL, Git, HTML, CSS, and JavaScript.
 							
 
 #  Contact
