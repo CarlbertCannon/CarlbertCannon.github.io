@@ -39,7 +39,7 @@
 ## - [KayneRest Project](https://github.com/CarlbertCannon/KanyeWest) This project uses randomly generated quotes from Kanye West and Ron Swanson by way of [KanyeWest API](https://api.kanye.rest) and [The RonSwanson API](https://ron-swanson-quotes.herokuapp.com/v2/quotes). When you run this application it will appear as if the two are having a conversation.
 
 ![BestBuy Clone](https://user-images.githubusercontent.com/86244135/151837443-35e91502-f3cd-4ce4-aa55-313852cfe7cb.PNG)
-## - [Best Buy Project](https://github.com/CarlbertCannon/BestBuyBestPractices) This project connects using a BestBuy API that lists products sold by Best Buy. The console connects to the API so you can essentially view all of the products. I can also create, update, read, and delete products from the list.
+## - [Best Buy Project](https://github.com/CarlbertCannon/ASPNET) This project connects using a BestBuy API that lists products sold by Best Buy. The console connects to the API so you can essentially view all of the products. I can also create, update, read, and delete products from the list.
 
 ![Taco Parser](https://user-images.githubusercontent.com/86244135/151837516-779ca50e-77f8-4ca8-a90f-7f3203edd814.PNG)
 ## - [TacoParser](https://github.com/CarlbertCannon/TacoParser) This project goes through a list of Taco Bell locations and essentially find the two that are farthest away from the other by mileage.
