@@ -26,8 +26,6 @@
 > I must say I enjoy creating websites, working with applications and solving by way of debugging.
 > Take a glance at some of my work throughout my time with TrueCoders.
 						
-
- ##  Experience 
 							
 ##  Projects
 								
@@ -65,7 +63,6 @@ Phone: 470-662-6455
 
 
 								
-![GitHub Dark](https://github.com/github-light.png#gh-light-mode-only)
 
 								
 							
