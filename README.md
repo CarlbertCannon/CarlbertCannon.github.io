@@ -27,7 +27,7 @@
 > Take a glance at some of my work throughout my time with TrueCoders.
 						
 
- #  Experience 
+ ##  Experience 
 							
 ##  Projects
 								
