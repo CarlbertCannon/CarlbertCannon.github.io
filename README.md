@@ -1,9 +1,12 @@
-#Welcome to my Portfolio
+#
+Welcome to my Portfolio
 
-##Designed by Carlbert Frank Cannon
+##
+Designed by Carlbert Frank Cannon
 					
 					
-#My journey
+#
+My journey
 							
 It started by watching videos on Youtube. A few of them were about breaking down the differences between 
 Software Engineering and Software Development, as well as what it means to be a front-end developer and a 
@@ -27,24 +30,32 @@ I must say I enjoy creating websites, working with applications and solving by w
 Take a glance at some of my work throughout my time with TrueCoders.
 						
 
- #Work 
+ #
+ Work 
 							
-##Projects
+##
+Projects
 								
-##[Open Weather Map API](https://github.com/CarlbertCannon/OpenWeatherMapAPI) Here I created a weather forecast app using an Open Weather Map API. It will give you the current weather for the city that you specify.
+##
+[Open Weather Map API](https://github.com/CarlbertCannon/OpenWeatherMapAPI) Here I created a weather forecast app using an Open Weather Map API. It will give you the current weather for the city that you specify.
 
-##[KayneRest Project](https://github.com/CarlbertCannon/KanyeWest) This project uses randomly generated quotes from Kanye West and Ron Swanson by way of
+##
+[KayneRest Project](https://github.com/CarlbertCannon/KanyeWest) This project uses randomly generated quotes from Kanye West and Ron Swanson by way of
 [KanyeWest API](https://api.kanye.rest) and [The RonSwanson API](https://ron-swanson-quotes.herokuapp.com/v2/quotes). When you run this application it will appear as if the two are having a conversation.
 
-##[Best Buy Project](https://github.com/CarlbertCannon/BestBuyBestPractices) This project connects using a BestBuy API that lists products sold by Best Buy. The console connects to the API so you can essentially view all of the products. I can also create, update, read, and delete products from the list.
+##
+[Best Buy Project](https://github.com/CarlbertCannon/BestBuyBestPractices) This project connects using a BestBuy API that lists products sold by Best Buy. The console connects to the API so you can essentially view all of the products. I can also create, update, read, and delete products from the list.
 
-##[TacoParser](https://github.com/CarlbertCannon/TacoParser) Project This project goes through a list of Taco Bell locations and essentially find the two that are farthest away from another by mileage.
+##
+[TacoParser](https://github.com/CarlbertCannon/TacoParser) Project This project goes through a list of Taco Bell locations and essentially find the two that are farthest away from another by mileage.
 							
 						
 						
-#TrueCoders
+#
+TrueCoders
 
-##Full Stack Software Engineering
+##
+Full Stack Software Engineering
 
 I became certified through their comprehensive training program. 
 Which involved over 500 hours of lecture and project based training.
@@ -52,16 +63,22 @@ Using varies programming languages and technical skills like C#,
 .Net, MySQL, Git, HTML, CSS, and JavaScript.</p>
 							
 
-#Contact
+#
+Contact
 							
 							
 							
 Phone: 470-662-6455
-#[Email](mailto:51percentbetter@gmail.com)
-#[Linkedin](https://www.linkedin.com/in/carlbert-cannon-02b4978b/)
-#[Twitter](https://twitter.com/FrankCannon85)
-#[Instagram](https://www.instagram.com/51percentbetter/)
-#[Github](https://github.com/CarlbertCannon)
+#
+[Email](mailto:51percentbetter@gmail.com)
+#
+[Linkedin](https://www.linkedin.com/in/carlbert-cannon-02b4978b/)
+#
+[Twitter](https://twitter.com/FrankCannon85)
+#
+[Instagram](https://www.instagram.com/51percentbetter/)
+#
+[Github](https://github.com/CarlbertCannon)
 								
 
 
