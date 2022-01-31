@@ -39,11 +39,11 @@
 ## - [Best Buy Project](https://github.com/CarlbertCannon/BestBuyBestPractices) This project connects using a BestBuy API that lists products sold by Best Buy. The console connects to the API so you can essentially view all of the products. I can also create, update, read, and delete products from the list.
 
 ![Taco Parser](https://user-images.githubusercontent.com/86244135/151837516-779ca50e-77f8-4ca8-a90f-7f3203edd814.PNG)
-## - [TacoParser](https://github.com/CarlbertCannon/TacoParser) This project goes through a list of Taco Bell locations and essentially find the two that are farthest away from another by mileage.
+## - [TacoParser](https://github.com/CarlbertCannon/TacoParser) This project goes through a list of Taco Bell locations and essentially find the two that are farthest away from the other by mileage.
 							
 						
 						
-#  TrueCoders
+#  [TrueCoders](https://truecoders.io/)
 
 ##  Full Stack Software Engineering
 
