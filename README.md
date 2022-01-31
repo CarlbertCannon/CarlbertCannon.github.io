@@ -28,7 +28,8 @@
 						
 							
 ##  Projects
-								
+
+/assets/images/Open Weather API.png
 ## - [Open Weather Map API](https://github.com/CarlbertCannon/OpenWeatherMapAPI) Here I created a weather forecast app using an Open Weather Map API. It will give you the current weather for the city that you specify.
 
 ## - [KayneRest Project](https://github.com/CarlbertCannon/KanyeWest) This project uses randomly generated quotes from Kanye West and Ron Swanson by way of [KanyeWest API](https://api.kanye.rest) and [The RonSwanson API](https://ron-swanson-quotes.herokuapp.com/v2/quotes). When you run this application it will appear as if the two are having a conversation.
