@@ -3,7 +3,7 @@
 ##  Designed by Carlbert Frank Cannon
 					
 					
-#  My journey
+#  My coding journey thus far!
 							
 > It started by watching videos on Youtube. A few of them were about breaking down the differences between 
 > Software Engineering and Software Development, as well as what it means to be a front-end developer and a 
